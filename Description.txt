@@ -1,0 +1,3 @@
+this script is a tool for generating synthetic data for a fictional bank's client database, ensuring that the generated data
+ is diverse and unique for each client. It demonstrates how to use the Faker library
+ to create realistic-looking data for testing and development purposes.
